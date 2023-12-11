@@ -42,7 +42,8 @@ Input the job description for which you seek resumes into the system.
     python main.py
     ```
 3. Send request:
-```    curl -X POST \
+```
+curl -X POST \
         -H "Content-Type: application/json; charset=utf-8" \
         -d @request.json \
         "localhost:5000/process-job-email"
