@@ -1,0 +1,10 @@
+boto3
+flask==3.0.0
+pandas
+google-cloud-storage
+openai==0.28
+langchain
+langchain-experimental
+tabulate
+deeplake
+tiktoken

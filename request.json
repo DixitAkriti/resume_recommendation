@@ -1,0 +1,11 @@
+{
+    "emailData": {
+      "subject": "Regarding Data Science Candidates Hiring", 
+      "content": "We are looking for a Data Scientist to analyze large amounts of raw information to find patterns that will help improve our company. We will rely on you to build data products to extract valuable business insights.Responsibilities:\n Identify valuable data sources and automate collection processes \nUndertake preprocessing of structured and unstructured data \nAnalyze large amounts of information to discover trends and patterns \nBuild predictive models and machine-learning algorithms \nCombine models through ensemble modeling \nPresent information using data visualization techniques \nPropose solutions and strategies to business challenges \nCollaborate with engineering and product development teams \nRequirements and skills:\nProven experience as a Data Scientist or Data Analyst\nExperience in data mining\nUnderstanding of machine-learning and operations research \nKnowledge of R, SQL and Python; familiarity with Scala, Java or C++ is an asset \nExperience using business intelligence tools (e.g. Tableau) and data frameworks (e.g. Hadoop) \nAnalytical mind and business acumen \nStrong math skills (e.g. statistics, algebra) \nProblem-solving aptitude \nExcellent communication and presentation skills \nBSc/BA in Computer Science, Engineering or relevant field; graduate degree in Data Science or other quantitative field is preferred",
+      "sender": {
+        "email": "abc@gmail.com",
+        "name": "Akriti"
+      },
+      "receivedTime": "14/11/2023 19:48:00"
+    }
+}
